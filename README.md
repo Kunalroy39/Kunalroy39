@@ -1,6 +1,6 @@
 ### Hi there, I'm Kunal Roy - aka [Kunalroy39][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kunalroy39?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 
 ## I'm a Student, Coder, Developer!!
 
@@ -12,20 +12,20 @@
 
 ### Spotify Playing 🎧
 
-[<iframe src="https://open.spotify.com/embed/track/7FROOyFNVDaTbnnBcghUXL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>]
-(https://open.spotify.com/track/7FROOyFNVDaTbnnBcghUXL)
-### Connect with me
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](<iframe src="https://open.spotify.com/embed/track/7FROOyFNVDaTbnnBcghUXL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/home" />][twitter]
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/kunal-kumar-roy-0b1876210/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/?hl=en" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/kunalroyo3/?hl=en-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FihiJhRJ_flask-python-logo-hd-png-download%2F&psig=AOvVaw151TvXDiLwIktiTO4PA2DQ&ust=1626369850634000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLiBn_2J4_ECFQAAAAAdAAAAABAD.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -46,10 +46,3 @@
 <br />
 
 ---
-
-
-
-
-  
-<!--START_SECTION:activity-->
-1
